@@ -35,4 +35,4 @@ x_new = np.array([[275.0,10.0,5,1]])
 predict = model.predict(x_new)
 
 print(f"the result :{predict[0][0]:.2f} K")
-model.save('PR_One.keras')
+model.save('first_pr')
