@@ -1,0 +1,1 @@
+This is a regression machine learning project designed to predict house prices based on specific features. It demonstrates the transition from a trained model to a functional web service using FastAPI.
